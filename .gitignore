@@ -8,3 +8,5 @@ package.json
 .ecrc
 .editorconfig
 README.md
+app/mail.php
+app/favicon.ico
